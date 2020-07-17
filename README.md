@@ -1,9 +1,10 @@
-Hi there, Dan Burns Here 👋
+<h1>Hi there, Dan Burns Here 👋 </h1>
 
+<p>New to GitHub. Familiar with HTML and CSS. Intersted in learning Javascript and animating SVGs.</p>
 <!--
 **danburns3/danburns3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2>Here are some ideas to get you started:</h2>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,5 @@ Hi there, Dan Burns Here 👋
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
